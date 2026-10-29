@@ -1,0 +1,13 @@
+{
+    "model_name": "Extra Trees Classifier",
+    "test_accuracy_percent": 84.33,
+    "dataset_rows": 4500,
+    "test_samples": 900,
+    "target_column": "dropout_risk",
+    "classes": [
+        "High",
+        "Low",
+        "Medium"
+    ],
+    "dataset_type": "Synthetic academic demonstration dataset"
+}
